@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   - [Project #2]
 - <b>C#</b>
   - [Project #1]
-  - Active Data refresher based on inputs
+  - Log Generator for project showcase
 - <b>Powershell/Bash</b>
    - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
    - Active directory
