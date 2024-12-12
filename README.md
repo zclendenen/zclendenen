@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 👨‍💻 Data Analysis & Software Projects </h2>
 
-[Capstone Project](https://github.com/cjdunagan)
+[Capstone Project](https://github.com/zclendenen)
 - <b>SQL</b>
   - [Project #1]
   - [Project #2]
@@ -16,8 +16,7 @@ You can click the Preview link to take a look at your changes.
   - [Project #1]
   - Log Generator for project showcase
 - <b>Powershell/Bash</b>
-   - [My example project here](https://github.com/cjdunagan/Active-Directory-Lab)
-   - Active directory
+   - [My example project here]
  
 
 <h2> 🖥️ Visualizations & Presentations:</h2>
