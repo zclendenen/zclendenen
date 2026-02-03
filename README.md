@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2>📺 YouTube Videos</h2>
 
-- [Example Youtube vid here](https://www.youtube.com)
+- 
 
 <h2> Certifications & Achievements </h2>
 
